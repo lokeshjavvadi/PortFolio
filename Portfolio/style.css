@@ -1,8 +1,16 @@
 /* appling google font over the website  */
+*{
+   
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    overflow-x: hidden;
+}
 body{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
-    overflow-x:hidden;
+    overflow-x: hidden;
+    
+    
 }
 /* styling menu icon */
 .nav-menu{
